@@ -196,6 +196,7 @@ gems:
   - jekyll/scholar
   - jekyll-youtube
   - jekyll-postfiles
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
