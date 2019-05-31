@@ -1,5 +1,5 @@
 # Personal website
-Source code of my personal web site, available on https://github.com/davidcawork/website.
+Source code of my personal web site, available on https://github.com/davidcawork/website/tree/gh-pages.
 
 # Usage
 1. Edit the _config.yml file to customize its settings.
