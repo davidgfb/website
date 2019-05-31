@@ -1,7 +1,0 @@
-main:
-  - title: "My Portfolio"
-    url: /portfolio/
-  - title: "Projects"
-    url: /projects/
-  - title: "Notes"
-    url: /notes/
