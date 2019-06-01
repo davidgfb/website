@@ -18,7 +18,7 @@ header:
     <li>
          <i>{{ project.name}} </i>. {{ project.desc}} Participation of {{ project.participants}}.
          <br />
-      <i><a href ="{{ project.link}}"><strong>Source Code</strong></a></i>
+      <i><a href ="{{ project.link}}">[ Source Code ]</strong></a></i>
     </li>
 {% endif %}
 {% endfor %}
