@@ -16,9 +16,11 @@ header:
 {% for project in site.data.projects %}
 {% if project.type == "uni" %}
     <li>
-         <i>{{ project.name}} </i>. {{ project.desc}} Participation of {{ project.participants}}.
+         <i>{{ project.name}} </i>. {{ project.desc}}.
          <br />
-      <i><a href ="{{ project.link}}">[ Source Code ]</strong></a></i>
+         Participation of {{ project.participants}}.
+         <br />
+         <a href ="{{ project.link}}">[ Source Code ]</a>
     </li>
 {% endif %}
 {% endfor %}
