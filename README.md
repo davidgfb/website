@@ -1,6 +1,7 @@
 # Personal website
 Source code of my personal web site, available on https://github.com/davidcawork/website/tree/gh-pages.
 
+
 # Usage
 1. Edit the _config.yml file to customize its settings.
 2. Edit the _bibliography/references.bib file and introduce your own references. BibTeX and links are automatically generated. Available fields are: 
